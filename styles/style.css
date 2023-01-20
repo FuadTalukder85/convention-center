@@ -1,0 +1,215 @@
+/* Fonts */
+/* Poppins & Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+nav,
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p,
+span {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+/* Header menu */
+header{
+
+}
+.navbar-brand {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    color: #3E3E3E;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #3E3E3E;
+}
+
+/* Banner section */
+.carousel-caption h5{
+    font-size: 48px;
+}
+.carousel-caption p{
+    /* font-weight: 300; */
+}
+.btn-primary{
+    color: #3F87F5;
+    background-color: #fff;
+    padding: 5px 35px;
+    border: none;
+    margin-bottom: 50px;
+}
+
+/* Event section */
+.event-section{
+    margin-top: 75px;
+}
+.event{
+    display: flex;
+    gap: 45px;
+    justify-content: center;
+    justify-items: center;
+    
+}
+.event-title{
+    font-size: 37px;
+    color: #0A0826;
+    font-weight: 700;
+}
+.event-paragraph{
+    color: #6C6C6C;
+    font-weight: 700;
+}
+.btn-explore{
+    padding: 10px 25px;
+    font-weight: 700;
+    border: none;
+    background-color: #3F87F5;
+    color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
